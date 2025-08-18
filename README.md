@@ -4,7 +4,7 @@
  
 
 I'm a methodical and resourceful QA Tester with hands-on experience in manual, exploratory, and automation testing.
-I’ve built a strong foundation in software testing through self-directed learning and practical application. I'm an enthusiastic learner, passionate about delivering high-quality work and continuously improving my skills. I have a solid ability to adapt and learn quickly in dynamic environments.
+I’ve built my foundation in software testing through self-directed learning and practical application. I'm an enthusiastic learner, passionate about delivering high-quality work and continuously improving my skills. I have a solid ability to adapt and learn quickly in dynamic environments.
 Currently, I'm preparing for the ISTQB Foundation Level Certification and the PTE Academic English Test to further strengthen my professional profile.
 
  ## 🛠️ Skills
