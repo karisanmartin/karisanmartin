@@ -11,9 +11,14 @@ Currently, I'm preparing for the ISTQB Foundation Level Certification and the PT
 
 ![Playwright](https://img.shields.io/badge/Playwright-green)
 ![Postman](https://img.shields.io/badge/-Postman-orange)
-![Git](https://img.shields.io/badge/GitHubWorkflow-blue)
+![Git](https://img.shields.io/badge/Git-blue)
 ![JavaScript](https://img.shields.io/badge/JavaSript-yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-red)
+![TypeScript](https://img.shields.io/badge/TypeScrip-Yellow)
+![Docker](https://img.shields.io/badge/Docker-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-red)
+![SwaggerUI](https://img.shields.io/badge/SwaggerUI-red)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-red)
 
 ## <img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/22e3883b-a92b-4e6c-b6a4-9f9806bff6c7" />  Get in touch
 
