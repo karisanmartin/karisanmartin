@@ -23,7 +23,6 @@ Currently, I'm preparing for the ISTQB Foundation Level Certification and the PT
 ## <img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/22e3883b-a92b-4e6c-b6a4-9f9806bff6c7" />  Get in touch
 
 
-[![Email](https://img.shields.io/badge/Email-karina.sanmartin.n@gmail.com-blue?logo=gmail)](mailto:karina.sanmartin.n@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karinasanmartinQE-blue?logo=linkedin)](www.linkedin.com/in/karina-san-martin-qe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-karinaQE-9cf?logo=internet-explorer)](https://github.com/karisanmartin)
 
