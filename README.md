@@ -24,10 +24,7 @@ Currently, I'm preparing for the ISTQB Foundation Level Certification and the PT
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karinasanmartinQE-blue?logo=linkedin)](www.linkedin.com/in/karina-san-martin-qe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-karinaQE-9cf?logo=internet-explorer)](https://github.com/karisanmartin)
-
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-karinaQE-9cf?logo=internet-explorer)](https://github.com/karisanmartin?tab=repositories)
 
 <!--- - 📫 How to reach me --->
 
