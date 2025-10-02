@@ -1,11 +1,11 @@
-# 👋 Hello! I’m Karina QA Engineer in progress  Focused on automation
+# 👋 Hello! I’m Karina Junior QA Engineer Focused on automation
 
    ## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c73cd600-701d-47a4-91cd-95808207e7dc" /> About Me
  
 
-I'm a methodical and resourceful QA Tester with hands-on experience in manual, exploratory, and automation testing.
-I’ve built my foundation in software testing through self-directed learning and practical application. I'm an enthusiastic learner, passionate about delivering high-quality work and continuously improving my skills. I have a solid ability to adapt and learn quickly in dynamic environments.
-Currently, I'm preparing for the ISTQB Foundation Level Certification to further strengthen my professional profile.
+I'm a methodical and resourceful QA Tester with hands-on experience in manual, functional, exploratory, and automation testing.
+I’ve built my foundation in software testing through 3 years of practical application in my hometown and now I'm excited to contribute and grow professionally in New Zealand. I'm an enthusiastic learner, passionate about delivering high-quality work and continuously improving my skills. I have a solid ability to adapt and learn quickly in dynamic environments.
+
 
  ## 🛠️ Skills
 
