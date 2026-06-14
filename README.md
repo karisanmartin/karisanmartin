@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Karina Junior QA Engineer Focused on automation
+# 👋 Hello! I’m Karina QA Engineer Focused on automation
 
    ## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c73cd600-701d-47a4-91cd-95808207e7dc" /> About Me
  
